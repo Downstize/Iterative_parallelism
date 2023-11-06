@@ -1,0 +1,45 @@
+D:/3 курс 1 сем/Асинхронка/lab_2/lab_2/obj/Debug/net6.0/lab_2.csproj.AssemblyReference.cache
+D:/3 курс 1 сем/Асинхронка/lab_2/lab_2/obj/Debug/net6.0/lab_2.GeneratedMSBuildEditorConfig.editorconfig
+D:/3 курс 1 сем/Асинхронка/lab_2/lab_2/obj/Debug/net6.0/lab_2.AssemblyInfoInputs.cache
+D:/3 курс 1 сем/Асинхронка/lab_2/lab_2/obj/Debug/net6.0/lab_2.AssemblyInfo.cs
+D:/3 курс 1 сем/Асинхронка/lab_2/lab_2/obj/Debug/net6.0/lab_2.csproj.CoreCompileInputs.cache
+D:/3 курс 1 сем/Асинхронка/lab_2/lab_2/bin/Debug/net6.0/lab_2.exe
+D:/3 курс 1 сем/Асинхронка/lab_2/lab_2/bin/Debug/net6.0/lab_2.deps.json
+D:/3 курс 1 сем/Асинхронка/lab_2/lab_2/bin/Debug/net6.0/lab_2.runtimeconfig.json
+D:/3 курс 1 сем/Асинхронка/lab_2/lab_2/bin/Debug/net6.0/lab_2.dll
+D:/3 курс 1 сем/Асинхронка/lab_2/lab_2/bin/Debug/net6.0/lab_2.pdb
+D:/3 курс 1 сем/Асинхронка/lab_2/lab_2/obj/Debug/net6.0/lab_2.dll
+D:/3 курс 1 сем/Асинхронка/lab_2/lab_2/obj/Debug/net6.0/refint/lab_2.dll
+D:/3 курс 1 сем/Асинхронка/lab_2/lab_2/obj/Debug/net6.0/lab_2.pdb
+D:/3 курс 1 сем/Асинхронка/lab_2/lab_2/obj/Debug/net6.0/lab_2.genruntimeconfig.cache
+D:/3 курс 1 сем/Асинхронка/lab_2/lab_2/obj/Debug/net6.0/ref/lab_2.dll
+C:/Users/123/Desktop/lab_2/lab_2/bin/Debug/net6.0/lab_2.exe
+C:/Users/123/Desktop/lab_2/lab_2/bin/Debug/net6.0/lab_2.deps.json
+C:/Users/123/Desktop/lab_2/lab_2/bin/Debug/net6.0/lab_2.runtimeconfig.json
+C:/Users/123/Desktop/lab_2/lab_2/bin/Debug/net6.0/lab_2.dll
+C:/Users/123/Desktop/lab_2/lab_2/bin/Debug/net6.0/lab_2.pdb
+C:/Users/123/Desktop/lab_2/lab_2/obj/Debug/net6.0/lab_2.csproj.AssemblyReference.cache
+C:/Users/123/Desktop/lab_2/lab_2/obj/Debug/net6.0/lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/123/Desktop/lab_2/lab_2/obj/Debug/net6.0/lab_2.AssemblyInfoInputs.cache
+C:/Users/123/Desktop/lab_2/lab_2/obj/Debug/net6.0/lab_2.AssemblyInfo.cs
+C:/Users/123/Desktop/lab_2/lab_2/obj/Debug/net6.0/lab_2.csproj.CoreCompileInputs.cache
+C:/Users/123/Desktop/lab_2/lab_2/obj/Debug/net6.0/lab_2.dll
+C:/Users/123/Desktop/lab_2/lab_2/obj/Debug/net6.0/refint/lab_2.dll
+C:/Users/123/Desktop/lab_2/lab_2/obj/Debug/net6.0/lab_2.pdb
+C:/Users/123/Desktop/lab_2/lab_2/obj/Debug/net6.0/lab_2.genruntimeconfig.cache
+C:/Users/123/Desktop/lab_2/lab_2/obj/Debug/net6.0/ref/lab_2.dll
+/Users/downstize/Downloads/lab_2/lab_2/bin/Debug/net6.0/lab_2
+/Users/downstize/Downloads/lab_2/lab_2/bin/Debug/net6.0/lab_2.deps.json
+/Users/downstize/Downloads/lab_2/lab_2/bin/Debug/net6.0/lab_2.runtimeconfig.json
+/Users/downstize/Downloads/lab_2/lab_2/bin/Debug/net6.0/lab_2.dll
+/Users/downstize/Downloads/lab_2/lab_2/bin/Debug/net6.0/lab_2.pdb
+/Users/downstize/Downloads/lab_2/lab_2/obj/Debug/net6.0/lab_2.csproj.AssemblyReference.cache
+/Users/downstize/Downloads/lab_2/lab_2/obj/Debug/net6.0/lab_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/downstize/Downloads/lab_2/lab_2/obj/Debug/net6.0/lab_2.AssemblyInfoInputs.cache
+/Users/downstize/Downloads/lab_2/lab_2/obj/Debug/net6.0/lab_2.AssemblyInfo.cs
+/Users/downstize/Downloads/lab_2/lab_2/obj/Debug/net6.0/lab_2.csproj.CoreCompileInputs.cache
+/Users/downstize/Downloads/lab_2/lab_2/obj/Debug/net6.0/lab_2.dll
+/Users/downstize/Downloads/lab_2/lab_2/obj/Debug/net6.0/refint/lab_2.dll
+/Users/downstize/Downloads/lab_2/lab_2/obj/Debug/net6.0/lab_2.pdb
+/Users/downstize/Downloads/lab_2/lab_2/obj/Debug/net6.0/lab_2.genruntimeconfig.cache
+/Users/downstize/Downloads/lab_2/lab_2/obj/Debug/net6.0/ref/lab_2.dll
